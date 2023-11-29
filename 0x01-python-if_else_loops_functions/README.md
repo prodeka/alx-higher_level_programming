@@ -12,11 +12,11 @@ Le programme utilise le module `random` de Python pour générer des nombres al�
 
 ### Téléchargement du code source
 
-Le code source du programme est disponible dans le répertoire suivant du référentiel GitHub :
+Le code source du programme est disponible dans le [répertoire GitHub](lien_vers_le_referentiel) suivant :
 
 - **Référentiel GitHub :** [alx-higher_level_programming](lien_vers_le_referentiel)
 - **Répertoire :** 0x01-python-if_else_loops_functions
-- **Fichier :** 0-positive_or_negative.py
+- **Fichier :** `0-positive_or_negative.py`
 
 Pour télécharger le code source, vous pouvez cloner le référentiel en utilisant la commande suivante dans votre terminal :
 
@@ -55,7 +55,3 @@ La sortie affiche le nombre généré, suivi de l'indication s'il est positif, n
 ## Conclusion
 
 Ce programme simple démontre l'utilisation de nombres aléatoires en Python et offre une introduction à la structure conditionnelle pour déterminer la positivité ou la négativité d'un nombre. Son exécution répétée génère des résultats différents à chaque fois.
-
----
-
-N'hésitez pas à personnaliser cette documentation en fonction des spécificités de votre projet et de votre public cible.
