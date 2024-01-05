@@ -1,11 +1,12 @@
-#!/usr/bin/python3
-"""Rectangle module
+#!bin/usr/python3
+"""Module de rectangle en python
 
-This module contains a class that defines a rectangle.
+Ce module contient les classe qui représente un rectangle
 """
 
-
 class Rectangle():
-    """Defines a rectangle."""
+    """Définition des attributs du rectangle"""
 
     pass
+
+
