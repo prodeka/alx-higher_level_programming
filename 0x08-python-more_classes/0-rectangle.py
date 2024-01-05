@@ -8,5 +8,3 @@ class Rectangle():
     """Définition des attributs du rectangle"""
 
     pass
-
-
