@@ -1,0 +1,4 @@
+#!/bin/bash
+git add .
+git commit -m "inheritance_projects_files"
+git push
