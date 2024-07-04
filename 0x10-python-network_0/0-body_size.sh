@@ -1,3 +1,4 @@
 #!/bin/bash
-# Takes in a URL, sends a request to that URL and displays the size of the body of the response.
-curl -s "$1" | wc -c
+#Ceci est un sun script bashsh pour envoyer une requete a un URL et affiche la taille en octet
+curl -s -w "%{size_download}\n" "$1"
+
